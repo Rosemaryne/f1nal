@@ -1,6 +1,6 @@
 # f1nal
 
-bot in telegram, which...
+bot in telegram, which shows you, yours school scheldule.
 
 ## Инструменты для реализации:
 > pytelegrambotapi
